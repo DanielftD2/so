@@ -284,6 +284,15 @@ Donde se trabaja los aspectos en el siguiente orden:
 Comprendiendo sobre el sistema operativo faltaba agregar unos aspectos en donde se uso de referencia el software libre GNU para la implementación de los demás aspectos.
 Para este paso ya se agrego le manejo de comando como car (cat.c), echo (echo.c), file para el guarado de archivos (file.c).
 
+Comandos:
+
+sudo apt update
+sudo apt install git
+sudo apt install make
+sudo apt-get install build-essential qemu-system-x86
+
+
+
 
 xv6 borrows code from the following sources:
     JOS (asm.h, elf.h, mmu.h, bootasm.S, ide.c, console.c, and others)
